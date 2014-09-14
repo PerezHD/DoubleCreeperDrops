@@ -1,0 +1,5 @@
+name: DoubleCreeperDrops
+description: Simple plugin to make creepers drop Double Drops.
+version: 0.1-SNAPSHOT
+main: com.battlepvp.doublecreeperdrops.DoubleCreeperDrops
+author: harry5573
